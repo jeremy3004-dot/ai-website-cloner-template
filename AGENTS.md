@@ -1,3 +1,5 @@
+READ ~/Projects/agent-scripts/AGENTS.MD BEFORE ANYTHING (skip if missing).
+
 <!-- BEGIN:nextjs-agent-rules -->
 # This is NOT the Next.js you know
 
